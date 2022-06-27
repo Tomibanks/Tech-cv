@@ -1,4 +1,3 @@
-
 html,
 body {
     margin: 0;
@@ -256,7 +255,7 @@ div#word-mark h1 a {
 /*-- /header --*/
 
 .banner_section {
-    background: url(../images/DAVE.jfif) no-repeat 0px 0px;
+    background: url(../images/serve.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
